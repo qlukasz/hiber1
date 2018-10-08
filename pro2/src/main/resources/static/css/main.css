@@ -1,0 +1,19 @@
+body{
+    font-family: arial;
+    color: #707070;
+}
+
+
+.partition_xxl{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    border: 1px solid #F0F0F0;
+    margin-top: 30px;
+}
+
+.partition_xxl_header{
+    font-weight: bold;
+    font-size: 22px;
+}

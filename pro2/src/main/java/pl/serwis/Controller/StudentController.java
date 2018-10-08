@@ -18,7 +18,7 @@ public class StudentController {
 
     @Autowired
     private StudentService studentService;
-//AA
+
     @RequestMapping(method = RequestMethod.GET)
     public Collection<Student> getAllStudents() {
         return studentService.getAllStudents();

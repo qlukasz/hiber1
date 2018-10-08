@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-
+    siema jsp ${imie}
 </body>
 </html>
